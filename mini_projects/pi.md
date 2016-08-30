@@ -6,6 +6,22 @@
 **Solution 1:**
 
 ``` c++
+#include <iostream>
+#include <vector>
+#include <set>
+#include <bitset>
+#include <unordered_set>
+#include <algorithm>
+#include <string>
+#include <iomanip>
+#include <list>
+#include <map>
+#include <unordered_map>
+#include <queue>
+#include <stack
+
+using namespace std;
+
 
 int main() {
 	int n;
