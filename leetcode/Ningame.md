@@ -13,7 +13,7 @@ the last stone will always be removed by your friend.**
 
 **Solutions :**
 
-''' c++
+``` c++
 class Solution {
 public:
     bool canWinNim(int n) {
@@ -23,4 +23,4 @@ public:
         return true;
     }
 };
-'''
+```
