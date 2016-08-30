@@ -1,6 +1,6 @@
 # Next Prime Number
 
-`Statement:` **Next Prime Number - Have the program find prime numbers until the user chooses to stop asking for the next one.**
+`Statement:` **Next Prime Number - Have the program find the nth prime numbers.**
 
 **Example :**
 ```
