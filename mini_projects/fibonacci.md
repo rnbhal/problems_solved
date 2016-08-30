@@ -2,16 +2,15 @@
 
 `Statement:` **Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.**
 
----
+**Example :**
 ```
-Example :
-**Input** : 5
-**Output** : 0 1 1 2 3 
+Input  : 5
+Output : 0 1 1 2 3 
 
-**Input** : 10
-**Output** : 0 1 1 2 3 5 8 13 21 34
+Input  : 10
+Output : 0 1 1 2 3 5 8 13 21 34
 ``` 
-
+---
 **Solution 1:**
 
 ``` c++

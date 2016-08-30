@@ -2,12 +2,12 @@
 
 `Statement:` **Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.**
 
+**Example :**
 ```
-Example :
-**Input** : 5
-**Output** : 3.1415
-**Input** : 10
-**Output** : 3.141592653
+Input  : 5
+Output : 3.1415
+Input  : 10
+Output : 3.141592653
 ```
 ---
 **Solution 1:**
