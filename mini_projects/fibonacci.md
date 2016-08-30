@@ -1,6 +1,11 @@
 # Fibonacci Sequence
 
 `Statement:` **Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.**
+```
+Limit : 95
+Time : O(N)
+Memory : O(1)
+```
 
 **Example :**
 ```
