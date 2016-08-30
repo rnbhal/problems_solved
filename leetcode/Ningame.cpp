@@ -1,4 +1,4 @@
-Link to Question : https://leetcode.com/problems/nim-game/
+https://leetcode.com/problems/nim-game/
 
 /* 
 
@@ -7,10 +7,16 @@ Statement: You are playing the following Nim Game with your friend: There is a h
 Both of you are very clever and have optimal strategies for the game. Write a function to determine whether you can win the game given the number of stones in the heap.
 
 For example, if there are 4 stones in the heap, then you will never win the game: no matter 1, 2, or 3 stones you remove, the last stone will always be removed by your friend.
--------------------------------------------------STATEMENT END-------------------------------------------------------------------
+-------------------------------------------------STATEMENT END-----------------------------------------------------------------
 
 */ 
 
+
+/*
+-------------------------------------------------------------------------------------------------------------------------------
+*/
+
+// Solution 1
 class Solution {
 public:
     bool canWinNim(int n) {
@@ -21,4 +27,6 @@ public:
     }
 };
 
-
+/*
+-------------------------------------------------------------------------------------------------------------------------------
+*/
