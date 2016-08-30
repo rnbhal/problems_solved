@@ -1,4 +1,4 @@
-## NinGame
+# NinGame
 [Try Question Here] (https://leetcode.com/problems/nim-game/)
 
 `Statement:` **You are playing the following Nim Game with your friend: There is a heap of stones on the table, each time 
@@ -12,7 +12,7 @@ the game given the number of stones in the heap.**
 the last stone will always be removed by your friend.**
 
 ---
-**Solutions :**
+**Solution 1:**
 
 ``` c++
 class Solution {
